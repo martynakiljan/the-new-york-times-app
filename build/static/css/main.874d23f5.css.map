@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.874d23f5.css","mappings":"AAAA,EAGC,kBAAmB,CAFnB,QAAS,CACT,SAED,CAEA,KACC,WACD,CAEA,MAEC,WAAY,CADZ,iBAED","sources":["App.css"],"sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n\tfont-family: Roboto;\n}\n\nbody {\n\theight: auto;\n}\n\n#root {\n\tposition: relative;\n\theight: 100%;\n}"],"names":[],"sourceRoot":""}

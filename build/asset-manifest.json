@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/new-york-times-app/static/css/main.874d23f5.css",
+    "main.js": "/new-york-times-app/static/js/main.ff4e4d77.js",
+    "index.html": "/new-york-times-app/index.html",
+    "main.874d23f5.css.map": "/new-york-times-app/static/css/main.874d23f5.css.map",
+    "main.ff4e4d77.js.map": "/new-york-times-app/static/js/main.ff4e4d77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874d23f5.css",
+    "static/js/main.ff4e4d77.js"
+  ]
+}
