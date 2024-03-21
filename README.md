@@ -30,5 +30,3 @@
 <img width="1366" alt="Zrzut ekranu 2023-02-2 o 21 35 58" src="https://user-images.githubusercontent.com/59742201/216443811-9c519875-8673-41e2-baf8-58de4caa466e.png">
 
 
-# the-new-york-times-app
-# the-new-york-times-app
